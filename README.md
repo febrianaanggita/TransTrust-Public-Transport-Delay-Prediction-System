@@ -1,31 +1,14 @@
-# P2FINAL_PROJECT
-## Repository Outline
-```
-P2FINAL_PROJECT
-│
-├── /assets                         # Project's logo
-│                     
-├── /deploy/deploy_model                   # Packages for deployment
-│          ├── best.pt                     # Fine-tune model
-│          └── deploy_config.json          # Best model configuration
-│
-├── /inf_images                     # Create this folder to input images before running inference
-│
-├── /raw_data                       # Raw dataset from kaggle
-│
-├── /sample_data                    # Sample dataset (7000 images) for training
-│
-│
-├── abulearn_project_inference.ipynb             # Inference notebook
-├── abulearn_project.ipynb                       # Main notebook
-├── engagement_level.yaml                        # YOLO dataset config (paths & class names)
-├── README.md                                    # Documentation
-└── yolov8n.pt                                   # YOLO baseline model
-<<<<<<< HEAD
-=======
-```
->>>>>>> a0a675d (modelneww)
----
+<h1 align="center">TransTrust:
+Predicts trip delays,
+Monitors traffic congestion
+</h1>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/VagueV12/TransTrust">
+    <img alt="Deploy on Hugging Face" src="https://img.shields.io/badge/Deploy-HuggingFace-blue?logo=huggingface">
+  </a>
+</p>
+
 
 ## Initiative
 
@@ -94,7 +77,10 @@ Sidjabat, S. (2015). Revitalisasi Angkutan Umum untuk Mengurangi Kemacetan Jakar
 Jurnal Manajemen Bisnis Transportasi dan Logistik, 1(2), 309–330.
 Jakarta: STMT Trisakti.
 
-<<<<<<< HEAD
-=======
----
->>>>>>> a0a675d (modelneww)
+
+
+
+
+
+
+
